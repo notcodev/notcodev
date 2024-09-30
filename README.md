@@ -11,7 +11,7 @@
 **Frontend:**
 
 ```javascript
-["React", "Next.js", "Tailwind"]
+["React", "Next.js", "Tailwind", "Effector", "Redux Toolkit", "Reatom", "Tanstack Query", "Tanstack Router", "Atomic router"]
 ```
 
 **Backend:**
