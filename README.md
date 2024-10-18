@@ -1,4 +1,4 @@
-# Hello everyone, I'm Codev
+# 👋 Hello everyone, I'm Codev
 
 ## 💻 Teck stack
 
