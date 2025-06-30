@@ -4,24 +4,30 @@
 
 **General:**
 
-```javascript
+```json
 ["JavaScript", "TypeScript", "HTML5", "CSS3", "Figma", "Git", "pnpm", "npm", "Docker"]
+```
+
+**Testing:**
+
+```json
+["Vitest", "Playwright"]
 ```
 
 **Code Quality:**
 
-```javascript
+```json
 ["ESlint", "Prettier"]
 ```
 
 **Frontend:**
 
-```javascript
-["React", "Next.js", "Tailwind", "Effector", "Redux Toolkit", "Reatom", "Tanstack Query", "Tanstack Router", "Atomic router", "Vite"]
+```json
+["React", "Next.js", "Tailwind", "Storybook", "Effector", "Redux Toolkit", "Reatom", "Tanstack Query", "React Router", "Tanstack Router", "Atomic Router", "Vite"]
 ```
 
 **Backend:**
 
-```javascript
+```json
 ["Nest", "NodeJS", "Fastify", "Express", "tRPC", "Prisma", "Drizzle", "Redis", "MongoDB", "RabbitMQ", "Postgres"]
 ```
